@@ -1,0 +1,194 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Orange\\Desktop\\.net\\.net\\17-02-2025\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3A87C24F-61BB-4777-99AD-5F604DA66933}|17-02-2025\\17-02-2025.csproj|c:\\users\\orange\\desktop\\.net\\.net\\17-02-2025\\17-02-2025\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A87C24F-61BB-4777-99AD-5F604DA66933}|17-02-2025\\17-02-2025.csproj|solutionrelative:17-02-2025\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A87C24F-61BB-4777-99AD-5F604DA66933}|17-02-2025\\17-02-2025.csproj|c:\\users\\orange\\desktop\\.net\\.net\\17-02-2025\\17-02-2025\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A87C24F-61BB-4777-99AD-5F604DA66933}|17-02-2025\\17-02-2025.csproj|solutionrelative:17-02-2025\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A87C24F-61BB-4777-99AD-5F604DA66933}|17-02-2025\\17-02-2025.csproj|c:\\users\\orange\\desktop\\.net\\.net\\17-02-2025\\17-02-2025\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A87C24F-61BB-4777-99AD-5F604DA66933}|17-02-2025\\17-02-2025.csproj|solutionrelative:17-02-2025\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A87C24F-61BB-4777-99AD-5F604DA66933}|17-02-2025\\17-02-2025.csproj|c:\\users\\orange\\desktop\\.net\\.net\\17-02-2025\\17-02-2025\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3A87C24F-61BB-4777-99AD-5F604DA66933}|17-02-2025\\17-02-2025.csproj|solutionrelative:17-02-2025\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A87C24F-61BB-4777-99AD-5F604DA66933}|17-02-2025\\17-02-2025.csproj|c:\\users\\orange\\desktop\\.net\\.net\\17-02-2025\\17-02-2025\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3A87C24F-61BB-4777-99AD-5F604DA66933}|17-02-2025\\17-02-2025.csproj|solutionrelative:17-02-2025\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A87C24F-61BB-4777-99AD-5F604DA66933}|17-02-2025\\17-02-2025.csproj|c:\\users\\orange\\desktop\\.net\\.net\\17-02-2025\\17-02-2025\\wwwroot\\css\\user.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{3A87C24F-61BB-4777-99AD-5F604DA66933}|17-02-2025\\17-02-2025.csproj|solutionrelative:17-02-2025\\wwwroot\\css\\user.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A87C24F-61BB-4777-99AD-5F604DA66933}|17-02-2025\\17-02-2025.csproj|c:\\users\\orange\\desktop\\.net\\.net\\17-02-2025\\17-02-2025\\wwwroot\\css\\admin.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{3A87C24F-61BB-4777-99AD-5F604DA66933}|17-02-2025\\17-02-2025.csproj|solutionrelative:17-02-2025\\wwwroot\\css\\admin.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A87C24F-61BB-4777-99AD-5F604DA66933}|17-02-2025\\17-02-2025.csproj|c:\\users\\orange\\desktop\\.net\\.net\\17-02-2025\\17-02-2025\\views\\admin\\admin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3A87C24F-61BB-4777-99AD-5F604DA66933}|17-02-2025\\17-02-2025.csproj|solutionrelative:17-02-2025\\views\\admin\\admin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A87C24F-61BB-4777-99AD-5F604DA66933}|17-02-2025\\17-02-2025.csproj|c:\\users\\orange\\desktop\\.net\\.net\\17-02-2025\\17-02-2025\\views\\shared\\adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3A87C24F-61BB-4777-99AD-5F604DA66933}|17-02-2025\\17-02-2025.csproj|solutionrelative:17-02-2025\\views\\shared\\adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A87C24F-61BB-4777-99AD-5F604DA66933}|17-02-2025\\17-02-2025.csproj|c:\\users\\orange\\desktop\\.net\\.net\\17-02-2025\\17-02-2025\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3A87C24F-61BB-4777-99AD-5F604DA66933}|17-02-2025\\17-02-2025.csproj|solutionrelative:17-02-2025\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 122,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\.net\\.net\\17-02-2025\\17-02-2025\\Program.cs",
+              "RelativeDocumentMoniker": "17-02-2025\\Program.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\.net\\.net\\17-02-2025\\17-02-2025\\Program.cs",
+              "RelativeToolTip": "17-02-2025\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T15:50:00.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\.net\\.net\\17-02-2025\\17-02-2025\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "17-02-2025\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\.net\\.net\\17-02-2025\\17-02-2025\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "17-02-2025\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-17T15:33:17.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\.net\\.net\\17-02-2025\\17-02-2025\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "17-02-2025\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\.net\\.net\\17-02-2025\\17-02-2025\\Controllers\\UserController.cs",
+              "RelativeToolTip": "17-02-2025\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T13:56:27.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\.net\\.net\\17-02-2025\\17-02-2025\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "17-02-2025\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\.net\\.net\\17-02-2025\\17-02-2025\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "17-02-2025\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T13:55:38.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "admin.css",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\.net\\.net\\17-02-2025\\17-02-2025\\wwwroot\\css\\admin.css",
+              "RelativeDocumentMoniker": "17-02-2025\\wwwroot\\css\\admin.css",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\.net\\.net\\17-02-2025\\17-02-2025\\wwwroot\\css\\admin.css",
+              "RelativeToolTip": "17-02-2025\\wwwroot\\css\\admin.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-02-17T13:53:40.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "admin.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\.net\\.net\\17-02-2025\\17-02-2025\\Views\\Admin\\admin.cshtml",
+              "RelativeDocumentMoniker": "17-02-2025\\Views\\Admin\\admin.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\.net\\.net\\17-02-2025\\17-02-2025\\Views\\Admin\\admin.cshtml",
+              "RelativeToolTip": "17-02-2025\\Views\\Admin\\admin.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-17T13:46:39.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\.net\\.net\\17-02-2025\\17-02-2025\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "17-02-2025\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\.net\\.net\\17-02-2025\\17-02-2025\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "17-02-2025\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-17T13:00:07.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "user.css",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\.net\\.net\\17-02-2025\\17-02-2025\\wwwroot\\css\\user.css",
+              "RelativeDocumentMoniker": "17-02-2025\\wwwroot\\css\\user.css",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\.net\\.net\\17-02-2025\\17-02-2025\\wwwroot\\css\\user.css",
+              "RelativeToolTip": "17-02-2025\\wwwroot\\css\\user.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-02-17T12:59:44.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\.net\\.net\\17-02-2025\\17-02-2025\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "17-02-2025\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\.net\\.net\\17-02-2025\\17-02-2025\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "17-02-2025\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-17T12:57:30.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AdminLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\.net\\.net\\17-02-2025\\17-02-2025\\Views\\Shared\\AdminLayout.cshtml",
+              "RelativeDocumentMoniker": "17-02-2025\\Views\\Shared\\AdminLayout.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\.net\\.net\\17-02-2025\\17-02-2025\\Views\\Shared\\AdminLayout.cshtml",
+              "RelativeToolTip": "17-02-2025\\Views\\Shared\\AdminLayout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-17T12:43:41.826Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

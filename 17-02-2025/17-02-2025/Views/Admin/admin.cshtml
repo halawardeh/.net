@@ -1,0 +1,49 @@
+﻿@{
+    ViewData["Title"] = "admin";
+}
+<h1>@ViewData["Title"]</h1>
+
+@{
+    Layout = "~/Views/Shared/AdminLayout.cshtml";
+
+    string[] Usernames = { "sara", "sura" , "saleh"};
+    int[] Ages = { 20, 22, 32};
+    string[] Emails = { "sara@gmsil.com", "saleh@gmsil.com", "sura@gmsil.com" };
+
+
+}
+
+<link rel="stylesheet" href="~/css/admin.css" asp-append-version="true" />
+
+<div class="sidebar">
+    <h2>Admin Dashboard</h2>
+    <a href="#">Dashboard</a>
+    <a href="#">Users</a>
+    <a href="#">Settings</a>
+    <a href="#">Logout</a>
+</div>
+<div class="content">
+    <h2>Users List</h2>
+    <div class="table-container">
+        <table>
+            <thead class="table-dark">
+                <tr>
+                    <th>Username</th>
+                    <th>Age</th>
+                    <th>Email</th>
+                </tr>
+            </thead>
+            <tbody>
+                @for (int i = 0; i < Usernames.Length; i++)
+                {
+                    <tr>
+                        <td>@Usernames[i]</td>
+                        <td>@Ages[i]</td>
+                        <td>@Emails[i]</td>
+                    </tr>
+                }
+            </tbody>
+            
+        </table>
+    </div>
+</div>
