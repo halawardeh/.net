@@ -1,0 +1,21 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    // ViewBag.Title = "testIndex2";
+}
+
+<h2>Test Index</h2>
+<h1>@ViewData["Msg"]</h1>
+<h3>@ViewBag.Welcom</h3>
+<p>@ViewBag.myinfo</p>
+
+<div>
+    <ul>
+    @foreach (int mark in ViewBag.classgrads)
+  {
+        <li>@mark</li>
+
+  }
+    </ul>
+</div>
