@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "ksZfcxAUSsE6DnGGhyQdjOZmwUePOxN14cdWYYXIl6w=",
+  "Hash": "PRH0esbX2MeRXRd462RByn4Ye7pnx1d+6tFZOX85qHI=",
   "Source": "WebApplication11111",
   "BasePath": "_content/WebApplication11111",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "WebApplication11111\\wwwroot",
       "Source": "WebApplication11111",
-      "ContentRoot": "C:\\Users\\Orange\\Downloads\\WebApplication11111\\WebApplication11111\\WebApplication11111\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Orange\\Desktop\\.net\\.net\\20-02-2025\\WebApplication11111\\WebApplication11111\\wwwroot\\",
       "BasePath": "_content/WebApplication11111",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Orange\\Downloads\\WebApplication11111\\WebApplication11111\\WebApplication11111\\obj\\Debug\\net8.0\\scopedcss\\bundle\\WebApplication11111.styles.css",
+      "Identity": "C:\\Users\\Orange\\Desktop\\.net\\.net\\20-02-2025\\WebApplication11111\\WebApplication11111\\obj\\Debug\\net8.0\\scopedcss\\bundle\\WebApplication11111.styles.css",
       "SourceId": "WebApplication11111",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Orange\\Downloads\\WebApplication11111\\WebApplication11111\\WebApplication11111\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\Orange\\Desktop\\.net\\.net\\20-02-2025\\WebApplication11111\\WebApplication11111\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/WebApplication11111",
       "RelativePath": "WebApplication11111#[.{fingerprint}]?.styles.css",
       "AssetKind": "All",
@@ -35,13 +35,13 @@
       "Integrity": "fDgFpCofY8YwXQJ4sPyErb62sQHjaA3uVBSCZEGzaVA=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Orange\\Downloads\\WebApplication11111\\WebApplication11111\\WebApplication11111\\obj\\Debug\\net8.0\\scopedcss\\bundle\\WebApplication11111.styles.css"
+      "OriginalItemSpec": "C:\\Users\\Orange\\Desktop\\.net\\.net\\20-02-2025\\WebApplication11111\\WebApplication11111\\obj\\Debug\\net8.0\\scopedcss\\bundle\\WebApplication11111.styles.css"
     },
     {
-      "Identity": "C:\\Users\\Orange\\Downloads\\WebApplication11111\\WebApplication11111\\WebApplication11111\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\WebApplication11111.bundle.scp.css",
+      "Identity": "C:\\Users\\Orange\\Desktop\\.net\\.net\\20-02-2025\\WebApplication11111\\WebApplication11111\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\WebApplication11111.bundle.scp.css",
       "SourceId": "WebApplication11111",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Orange\\Downloads\\WebApplication11111\\WebApplication11111\\WebApplication11111\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\Orange\\Desktop\\.net\\.net\\20-02-2025\\WebApplication11111\\WebApplication11111\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/WebApplication11111",
       "RelativePath": "WebApplication11111#[.{fingerprint}]!.bundle.scp.css",
       "AssetKind": "All",
@@ -56,13 +56,13 @@
       "Integrity": "fDgFpCofY8YwXQJ4sPyErb62sQHjaA3uVBSCZEGzaVA=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Orange\\Downloads\\WebApplication11111\\WebApplication11111\\WebApplication11111\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\WebApplication11111.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\Orange\\Desktop\\.net\\.net\\20-02-2025\\WebApplication11111\\WebApplication11111\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\WebApplication11111.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\Orange\\Downloads\\WebApplication11111\\WebApplication11111\\WebApplication11111\\wwwroot\\css\\home.css",
+      "Identity": "C:\\Users\\Orange\\Desktop\\.net\\.net\\20-02-2025\\WebApplication11111\\WebApplication11111\\wwwroot\\css\\home.css",
       "SourceId": "WebApplication11111",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Orange\\Downloads\\WebApplication11111\\WebApplication11111\\WebApplication11111\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Orange\\Desktop\\.net\\.net\\20-02-2025\\WebApplication11111\\WebApplication11111\\wwwroot\\",
       "BasePath": "_content/WebApplication11111",
       "RelativePath": "css/home#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -80,10 +80,10 @@
       "OriginalItemSpec": "wwwroot\\css\\home.css"
     },
     {
-      "Identity": "C:\\Users\\Orange\\Downloads\\WebApplication11111\\WebApplication11111\\WebApplication11111\\wwwroot\\css\\login.css",
+      "Identity": "C:\\Users\\Orange\\Desktop\\.net\\.net\\20-02-2025\\WebApplication11111\\WebApplication11111\\wwwroot\\css\\login.css",
       "SourceId": "WebApplication11111",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Orange\\Downloads\\WebApplication11111\\WebApplication11111\\WebApplication11111\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Orange\\Desktop\\.net\\.net\\20-02-2025\\WebApplication11111\\WebApplication11111\\wwwroot\\",
       "BasePath": "_content/WebApplication11111",
       "RelativePath": "css/login#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -101,10 +101,10 @@
       "OriginalItemSpec": "wwwroot\\css\\login.css"
     },
     {
-      "Identity": "C:\\Users\\Orange\\Downloads\\WebApplication11111\\WebApplication11111\\WebApplication11111\\wwwroot\\css\\profile.css",
+      "Identity": "C:\\Users\\Orange\\Desktop\\.net\\.net\\20-02-2025\\WebApplication11111\\WebApplication11111\\wwwroot\\css\\profile.css",
       "SourceId": "WebApplication11111",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Orange\\Downloads\\WebApplication11111\\WebApplication11111\\WebApplication11111\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Orange\\Desktop\\.net\\.net\\20-02-2025\\WebApplication11111\\WebApplication11111\\wwwroot\\",
       "BasePath": "_content/WebApplication11111",
       "RelativePath": "css/profile#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -122,10 +122,10 @@
       "OriginalItemSpec": "wwwroot\\css\\profile.css"
     },
     {
-      "Identity": "C:\\Users\\Orange\\Downloads\\WebApplication11111\\WebApplication11111\\WebApplication11111\\wwwroot\\css\\register.css",
+      "Identity": "C:\\Users\\Orange\\Desktop\\.net\\.net\\20-02-2025\\WebApplication11111\\WebApplication11111\\wwwroot\\css\\register.css",
       "SourceId": "WebApplication11111",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Orange\\Downloads\\WebApplication11111\\WebApplication11111\\WebApplication11111\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Orange\\Desktop\\.net\\.net\\20-02-2025\\WebApplication11111\\WebApplication11111\\wwwroot\\",
       "BasePath": "_content/WebApplication11111",
       "RelativePath": "css/register#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -143,10 +143,10 @@
       "OriginalItemSpec": "wwwroot\\css\\register.css"
     },
     {
-      "Identity": "C:\\Users\\Orange\\Downloads\\WebApplication11111\\WebApplication11111\\WebApplication11111\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\Orange\\Desktop\\.net\\.net\\20-02-2025\\WebApplication11111\\WebApplication11111\\wwwroot\\favicon.ico",
       "SourceId": "WebApplication11111",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Orange\\Downloads\\WebApplication11111\\WebApplication11111\\WebApplication11111\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Orange\\Desktop\\.net\\.net\\20-02-2025\\WebApplication11111\\WebApplication11111\\wwwroot\\",
       "BasePath": "_content/WebApplication11111",
       "RelativePath": "favicon#[.{fingerprint}]?.ico",
       "AssetKind": "All",
@@ -164,10 +164,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\Orange\\Downloads\\WebApplication11111\\WebApplication11111\\WebApplication11111\\wwwroot\\js\\js.js",
+      "Identity": "C:\\Users\\Orange\\Desktop\\.net\\.net\\20-02-2025\\WebApplication11111\\WebApplication11111\\wwwroot\\js\\js.js",
       "SourceId": "WebApplication11111",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Orange\\Downloads\\WebApplication11111\\WebApplication11111\\WebApplication11111\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Orange\\Desktop\\.net\\.net\\20-02-2025\\WebApplication11111\\WebApplication11111\\wwwroot\\",
       "BasePath": "_content/WebApplication11111",
       "RelativePath": "js/js#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -185,10 +185,10 @@
       "OriginalItemSpec": "wwwroot\\js\\js.js"
     },
     {
-      "Identity": "C:\\Users\\Orange\\Downloads\\WebApplication11111\\WebApplication11111\\WebApplication11111\\wwwroot\\js\\site.js",
+      "Identity": "C:\\Users\\Orange\\Desktop\\.net\\.net\\20-02-2025\\WebApplication11111\\WebApplication11111\\wwwroot\\js\\site.js",
       "SourceId": "WebApplication11111",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Orange\\Downloads\\WebApplication11111\\WebApplication11111\\WebApplication11111\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Orange\\Desktop\\.net\\.net\\20-02-2025\\WebApplication11111\\WebApplication11111\\wwwroot\\",
       "BasePath": "_content/WebApplication11111",
       "RelativePath": "js/site#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -206,10 +206,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\Users\\Orange\\Downloads\\WebApplication11111\\WebApplication11111\\WebApplication11111\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Users\\Orange\\Desktop\\.net\\.net\\20-02-2025\\WebApplication11111\\WebApplication11111\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "WebApplication11111",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Orange\\Downloads\\WebApplication11111\\WebApplication11111\\WebApplication11111\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Orange\\Desktop\\.net\\.net\\20-02-2025\\WebApplication11111\\WebApplication11111\\wwwroot\\",
       "BasePath": "_content/WebApplication11111",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -227,10 +227,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\Orange\\Downloads\\WebApplication11111\\WebApplication11111\\WebApplication11111\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\Users\\Orange\\Desktop\\.net\\.net\\20-02-2025\\WebApplication11111\\WebApplication11111\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "WebApplication11111",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Orange\\Downloads\\WebApplication11111\\WebApplication11111\\WebApplication11111\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Orange\\Desktop\\.net\\.net\\20-02-2025\\WebApplication11111\\WebApplication11111\\wwwroot\\",
       "BasePath": "_content/WebApplication11111",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -248,10 +248,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\Orange\\Downloads\\WebApplication11111\\WebApplication11111\\WebApplication11111\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\Orange\\Desktop\\.net\\.net\\20-02-2025\\WebApplication11111\\WebApplication11111\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "WebApplication11111",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Orange\\Downloads\\WebApplication11111\\WebApplication11111\\WebApplication11111\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Orange\\Desktop\\.net\\.net\\20-02-2025\\WebApplication11111\\WebApplication11111\\wwwroot\\",
       "BasePath": "_content/WebApplication11111",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -269,10 +269,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\Orange\\Downloads\\WebApplication11111\\WebApplication11111\\WebApplication11111\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Users\\Orange\\Desktop\\.net\\.net\\20-02-2025\\WebApplication11111\\WebApplication11111\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "WebApplication11111",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Orange\\Downloads\\WebApplication11111\\WebApplication11111\\WebApplication11111\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Orange\\Desktop\\.net\\.net\\20-02-2025\\WebApplication11111\\WebApplication11111\\wwwroot\\",
       "BasePath": "_content/WebApplication11111",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -290,10 +290,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\Orange\\Downloads\\WebApplication11111\\WebApplication11111\\WebApplication11111\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "C:\\Users\\Orange\\Desktop\\.net\\.net\\20-02-2025\\WebApplication11111\\WebApplication11111\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "WebApplication11111",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Orange\\Downloads\\WebApplication11111\\WebApplication11111\\WebApplication11111\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Orange\\Desktop\\.net\\.net\\20-02-2025\\WebApplication11111\\WebApplication11111\\wwwroot\\",
       "BasePath": "_content/WebApplication11111",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -311,10 +311,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\Users\\Orange\\Downloads\\WebApplication11111\\WebApplication11111\\WebApplication11111\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "C:\\Users\\Orange\\Desktop\\.net\\.net\\20-02-2025\\WebApplication11111\\WebApplication11111\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "WebApplication11111",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Orange\\Downloads\\WebApplication11111\\WebApplication11111\\WebApplication11111\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Orange\\Desktop\\.net\\.net\\20-02-2025\\WebApplication11111\\WebApplication11111\\wwwroot\\",
       "BasePath": "_content/WebApplication11111",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -332,10 +332,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\Users\\Orange\\Downloads\\WebApplication11111\\WebApplication11111\\WebApplication11111\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "C:\\Users\\Orange\\Desktop\\.net\\.net\\20-02-2025\\WebApplication11111\\WebApplication11111\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "WebApplication11111",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Orange\\Downloads\\WebApplication11111\\WebApplication11111\\WebApplication11111\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Orange\\Desktop\\.net\\.net\\20-02-2025\\WebApplication11111\\WebApplication11111\\wwwroot\\",
       "BasePath": "_content/WebApplication11111",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -353,10 +353,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\Users\\Orange\\Downloads\\WebApplication11111\\WebApplication11111\\WebApplication11111\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "C:\\Users\\Orange\\Desktop\\.net\\.net\\20-02-2025\\WebApplication11111\\WebApplication11111\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "WebApplication11111",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Orange\\Downloads\\WebApplication11111\\WebApplication11111\\WebApplication11111\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Orange\\Desktop\\.net\\.net\\20-02-2025\\WebApplication11111\\WebApplication11111\\wwwroot\\",
       "BasePath": "_content/WebApplication11111",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\Orange\\Downloads\\WebApplication11111\\WebApplication11111\\WebApplication11111\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\Orange\\Desktop\\.net\\.net\\20-02-2025\\WebApplication11111\\WebApplication11111\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "WebApplication11111",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Orange\\Downloads\\WebApplication11111\\WebApplication11111\\WebApplication11111\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Orange\\Desktop\\.net\\.net\\20-02-2025\\WebApplication11111\\WebApplication11111\\wwwroot\\",
       "BasePath": "_content/WebApplication11111",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -395,10 +395,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\Orange\\Downloads\\WebApplication11111\\WebApplication11111\\WebApplication11111\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "C:\\Users\\Orange\\Desktop\\.net\\.net\\20-02-2025\\WebApplication11111\\WebApplication11111\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "WebApplication11111",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Orange\\Downloads\\WebApplication11111\\WebApplication11111\\WebApplication11111\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Orange\\Desktop\\.net\\.net\\20-02-2025\\WebApplication11111\\WebApplication11111\\wwwroot\\",
       "BasePath": "_content/WebApplication11111",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -416,10 +416,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Users\\Orange\\Downloads\\WebApplication11111\\WebApplication11111\\WebApplication11111\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\Orange\\Desktop\\.net\\.net\\20-02-2025\\WebApplication11111\\WebApplication11111\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "WebApplication11111",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Orange\\Downloads\\WebApplication11111\\WebApplication11111\\WebApplication11111\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Orange\\Desktop\\.net\\.net\\20-02-2025\\WebApplication11111\\WebApplication11111\\wwwroot\\",
       "BasePath": "_content/WebApplication11111",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -437,10 +437,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\Orange\\Downloads\\WebApplication11111\\WebApplication11111\\WebApplication11111\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\Users\\Orange\\Desktop\\.net\\.net\\20-02-2025\\WebApplication11111\\WebApplication11111\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "WebApplication11111",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Orange\\Downloads\\WebApplication11111\\WebApplication11111\\WebApplication11111\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Orange\\Desktop\\.net\\.net\\20-02-2025\\WebApplication11111\\WebApplication11111\\wwwroot\\",
       "BasePath": "_content/WebApplication11111",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -458,10 +458,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\Orange\\Downloads\\WebApplication11111\\WebApplication11111\\WebApplication11111\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "C:\\Users\\Orange\\Desktop\\.net\\.net\\20-02-2025\\WebApplication11111\\WebApplication11111\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "WebApplication11111",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Orange\\Downloads\\WebApplication11111\\WebApplication11111\\WebApplication11111\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Orange\\Desktop\\.net\\.net\\20-02-2025\\WebApplication11111\\WebApplication11111\\wwwroot\\",
       "BasePath": "_content/WebApplication11111",
       "RelativePath": "lib/bootstrap/LICENSE#[.{fingerprint}]?",
       "AssetKind": "All",
@@ -479,10 +479,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\Users\\Orange\\Downloads\\WebApplication11111\\WebApplication11111\\WebApplication11111\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Users\\Orange\\Desktop\\.net\\.net\\20-02-2025\\WebApplication11111\\WebApplication11111\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "WebApplication11111",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Orange\\Downloads\\WebApplication11111\\WebApplication11111\\WebApplication11111\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Orange\\Desktop\\.net\\.net\\20-02-2025\\WebApplication11111\\WebApplication11111\\wwwroot\\",
       "BasePath": "_content/WebApplication11111",
       "RelativePath": "lib/jquery/dist/jquery#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -500,10 +500,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\Orange\\Downloads\\WebApplication11111\\WebApplication11111\\WebApplication11111\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Users\\Orange\\Desktop\\.net\\.net\\20-02-2025\\WebApplication11111\\WebApplication11111\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "WebApplication11111",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Orange\\Downloads\\WebApplication11111\\WebApplication11111\\WebApplication11111\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Orange\\Desktop\\.net\\.net\\20-02-2025\\WebApplication11111\\WebApplication11111\\wwwroot\\",
       "BasePath": "_content/WebApplication11111",
       "RelativePath": "lib/jquery/dist/jquery.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -521,10 +521,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\Orange\\Downloads\\WebApplication11111\\WebApplication11111\\WebApplication11111\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\Users\\Orange\\Desktop\\.net\\.net\\20-02-2025\\WebApplication11111\\WebApplication11111\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "WebApplication11111",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Orange\\Downloads\\WebApplication11111\\WebApplication11111\\WebApplication11111\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Orange\\Desktop\\.net\\.net\\20-02-2025\\WebApplication11111\\WebApplication11111\\wwwroot\\",
       "BasePath": "_content/WebApplication11111",
       "RelativePath": "lib/jquery/dist/jquery.min#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -542,10 +542,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\Orange\\Downloads\\WebApplication11111\\WebApplication11111\\WebApplication11111\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\Users\\Orange\\Desktop\\.net\\.net\\20-02-2025\\WebApplication11111\\WebApplication11111\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "WebApplication11111",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Orange\\Downloads\\WebApplication11111\\WebApplication11111\\WebApplication11111\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Orange\\Desktop\\.net\\.net\\20-02-2025\\WebApplication11111\\WebApplication11111\\wwwroot\\",
       "BasePath": "_content/WebApplication11111",
       "RelativePath": "lib/jquery/LICENSE#[.{fingerprint}]?.txt",
       "AssetKind": "All",
@@ -563,10 +563,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\Orange\\Downloads\\WebApplication11111\\WebApplication11111\\WebApplication11111\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\Users\\Orange\\Desktop\\.net\\.net\\20-02-2025\\WebApplication11111\\WebApplication11111\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "WebApplication11111",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Orange\\Downloads\\WebApplication11111\\WebApplication11111\\WebApplication11111\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Orange\\Desktop\\.net\\.net\\20-02-2025\\WebApplication11111\\WebApplication11111\\wwwroot\\",
       "BasePath": "_content/WebApplication11111",
       "RelativePath": "lib/jquery-validation/dist/additional-methods#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -584,10 +584,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Users\\Orange\\Downloads\\WebApplication11111\\WebApplication11111\\WebApplication11111\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\Users\\Orange\\Desktop\\.net\\.net\\20-02-2025\\WebApplication11111\\WebApplication11111\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "WebApplication11111",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Orange\\Downloads\\WebApplication11111\\WebApplication11111\\WebApplication11111\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Orange\\Desktop\\.net\\.net\\20-02-2025\\WebApplication11111\\WebApplication11111\\wwwroot\\",
       "BasePath": "_content/WebApplication11111",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -605,10 +605,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Users\\Orange\\Downloads\\WebApplication11111\\WebApplication11111\\WebApplication11111\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\Users\\Orange\\Desktop\\.net\\.net\\20-02-2025\\WebApplication11111\\WebApplication11111\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "WebApplication11111",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Orange\\Downloads\\WebApplication11111\\WebApplication11111\\WebApplication11111\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Orange\\Desktop\\.net\\.net\\20-02-2025\\WebApplication11111\\WebApplication11111\\wwwroot\\",
       "BasePath": "_content/WebApplication11111",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -626,10 +626,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Users\\Orange\\Downloads\\WebApplication11111\\WebApplication11111\\WebApplication11111\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\Users\\Orange\\Desktop\\.net\\.net\\20-02-2025\\WebApplication11111\\WebApplication11111\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "WebApplication11111",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Orange\\Downloads\\WebApplication11111\\WebApplication11111\\WebApplication11111\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Orange\\Desktop\\.net\\.net\\20-02-2025\\WebApplication11111\\WebApplication11111\\wwwroot\\",
       "BasePath": "_content/WebApplication11111",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -647,10 +647,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Users\\Orange\\Downloads\\WebApplication11111\\WebApplication11111\\WebApplication11111\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\Users\\Orange\\Desktop\\.net\\.net\\20-02-2025\\WebApplication11111\\WebApplication11111\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "WebApplication11111",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Orange\\Downloads\\WebApplication11111\\WebApplication11111\\WebApplication11111\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Orange\\Desktop\\.net\\.net\\20-02-2025\\WebApplication11111\\WebApplication11111\\wwwroot\\",
       "BasePath": "_content/WebApplication11111",
       "RelativePath": "lib/jquery-validation/LICENSE#[.{fingerprint}]?.md",
       "AssetKind": "All",
@@ -668,10 +668,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Users\\Orange\\Downloads\\WebApplication11111\\WebApplication11111\\WebApplication11111\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Users\\Orange\\Desktop\\.net\\.net\\20-02-2025\\WebApplication11111\\WebApplication11111\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "WebApplication11111",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Orange\\Downloads\\WebApplication11111\\WebApplication11111\\WebApplication11111\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Orange\\Desktop\\.net\\.net\\20-02-2025\\WebApplication11111\\WebApplication11111\\wwwroot\\",
       "BasePath": "_content/WebApplication11111",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -689,10 +689,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\Orange\\Downloads\\WebApplication11111\\WebApplication11111\\WebApplication11111\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\Orange\\Desktop\\.net\\.net\\20-02-2025\\WebApplication11111\\WebApplication11111\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "WebApplication11111",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Orange\\Downloads\\WebApplication11111\\WebApplication11111\\WebApplication11111\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Orange\\Desktop\\.net\\.net\\20-02-2025\\WebApplication11111\\WebApplication11111\\wwwroot\\",
       "BasePath": "_content/WebApplication11111",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -710,10 +710,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Users\\Orange\\Downloads\\WebApplication11111\\WebApplication11111\\WebApplication11111\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\Users\\Orange\\Desktop\\.net\\.net\\20-02-2025\\WebApplication11111\\WebApplication11111\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "WebApplication11111",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Orange\\Downloads\\WebApplication11111\\WebApplication11111\\WebApplication11111\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Orange\\Desktop\\.net\\.net\\20-02-2025\\WebApplication11111\\WebApplication11111\\wwwroot\\",
       "BasePath": "_content/WebApplication11111",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE#[.{fingerprint}]?.txt",
       "AssetKind": "All",
@@ -734,7 +734,7 @@
   "Endpoints": [
     {
       "Route": "css/home.css",
-      "AssetFile": "C:\\Users\\Orange\\Downloads\\WebApplication11111\\WebApplication11111\\WebApplication11111\\wwwroot\\css\\home.css",
+      "AssetFile": "C:\\Users\\Orange\\Desktop\\.net\\.net\\20-02-2025\\WebApplication11111\\WebApplication11111\\wwwroot\\css\\home.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -755,7 +755,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 19 Feb 2025 19:46:19 GMT"
+          "Value": "Thu, 20 Feb 2025 13:51:37 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -771,7 +771,7 @@
     },
     {
       "Route": "css/home.jab0m07app.css",
-      "AssetFile": "C:\\Users\\Orange\\Downloads\\WebApplication11111\\WebApplication11111\\WebApplication11111\\wwwroot\\css\\home.css",
+      "AssetFile": "C:\\Users\\Orange\\Desktop\\.net\\.net\\20-02-2025\\WebApplication11111\\WebApplication11111\\wwwroot\\css\\home.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -792,7 +792,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 19 Feb 2025 19:46:19 GMT"
+          "Value": "Thu, 20 Feb 2025 13:51:37 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -816,7 +816,7 @@
     },
     {
       "Route": "css/login.3ukj5c1ott.css",
-      "AssetFile": "C:\\Users\\Orange\\Downloads\\WebApplication11111\\WebApplication11111\\WebApplication11111\\wwwroot\\css\\login.css",
+      "AssetFile": "C:\\Users\\Orange\\Desktop\\.net\\.net\\20-02-2025\\WebApplication11111\\WebApplication11111\\wwwroot\\css\\login.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -861,7 +861,7 @@
     },
     {
       "Route": "css/login.css",
-      "AssetFile": "C:\\Users\\Orange\\Downloads\\WebApplication11111\\WebApplication11111\\WebApplication11111\\wwwroot\\css\\login.css",
+      "AssetFile": "C:\\Users\\Orange\\Desktop\\.net\\.net\\20-02-2025\\WebApplication11111\\WebApplication11111\\wwwroot\\css\\login.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -898,7 +898,7 @@
     },
     {
       "Route": "css/profile.css",
-      "AssetFile": "C:\\Users\\Orange\\Downloads\\WebApplication11111\\WebApplication11111\\WebApplication11111\\wwwroot\\css\\profile.css",
+      "AssetFile": "C:\\Users\\Orange\\Desktop\\.net\\.net\\20-02-2025\\WebApplication11111\\WebApplication11111\\wwwroot\\css\\profile.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -935,7 +935,7 @@
     },
     {
       "Route": "css/profile.vif42g4ith.css",
-      "AssetFile": "C:\\Users\\Orange\\Downloads\\WebApplication11111\\WebApplication11111\\WebApplication11111\\wwwroot\\css\\profile.css",
+      "AssetFile": "C:\\Users\\Orange\\Desktop\\.net\\.net\\20-02-2025\\WebApplication11111\\WebApplication11111\\wwwroot\\css\\profile.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -980,7 +980,7 @@
     },
     {
       "Route": "css/register.css",
-      "AssetFile": "C:\\Users\\Orange\\Downloads\\WebApplication11111\\WebApplication11111\\WebApplication11111\\wwwroot\\css\\register.css",
+      "AssetFile": "C:\\Users\\Orange\\Desktop\\.net\\.net\\20-02-2025\\WebApplication11111\\WebApplication11111\\wwwroot\\css\\register.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1017,7 +1017,7 @@
     },
     {
       "Route": "css/register.qc3d1sl2ut.css",
-      "AssetFile": "C:\\Users\\Orange\\Downloads\\WebApplication11111\\WebApplication11111\\WebApplication11111\\wwwroot\\css\\register.css",
+      "AssetFile": "C:\\Users\\Orange\\Desktop\\.net\\.net\\20-02-2025\\WebApplication11111\\WebApplication11111\\wwwroot\\css\\register.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1062,7 +1062,7 @@
     },
     {
       "Route": "favicon.61n19gt1b8.ico",
-      "AssetFile": "C:\\Users\\Orange\\Downloads\\WebApplication11111\\WebApplication11111\\WebApplication11111\\wwwroot\\favicon.ico",
+      "AssetFile": "C:\\Users\\Orange\\Desktop\\.net\\.net\\20-02-2025\\WebApplication11111\\WebApplication11111\\wwwroot\\favicon.ico",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1107,7 +1107,7 @@
     },
     {
       "Route": "favicon.ico",
-      "AssetFile": "C:\\Users\\Orange\\Downloads\\WebApplication11111\\WebApplication11111\\WebApplication11111\\wwwroot\\favicon.ico",
+      "AssetFile": "C:\\Users\\Orange\\Desktop\\.net\\.net\\20-02-2025\\WebApplication11111\\WebApplication11111\\wwwroot\\favicon.ico",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1144,7 +1144,7 @@
     },
     {
       "Route": "js/js.js",
-      "AssetFile": "C:\\Users\\Orange\\Downloads\\WebApplication11111\\WebApplication11111\\WebApplication11111\\wwwroot\\js\\js.js",
+      "AssetFile": "C:\\Users\\Orange\\Desktop\\.net\\.net\\20-02-2025\\WebApplication11111\\WebApplication11111\\wwwroot\\js\\js.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1181,7 +1181,7 @@
     },
     {
       "Route": "js/js.ov05qe7jf6.js",
-      "AssetFile": "C:\\Users\\Orange\\Downloads\\WebApplication11111\\WebApplication11111\\WebApplication11111\\wwwroot\\js\\js.js",
+      "AssetFile": "C:\\Users\\Orange\\Desktop\\.net\\.net\\20-02-2025\\WebApplication11111\\WebApplication11111\\wwwroot\\js\\js.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1226,7 +1226,7 @@
     },
     {
       "Route": "js/site.3r8b2a0bt1.js",
-      "AssetFile": "C:\\Users\\Orange\\Downloads\\WebApplication11111\\WebApplication11111\\WebApplication11111\\wwwroot\\js\\site.js",
+      "AssetFile": "C:\\Users\\Orange\\Desktop\\.net\\.net\\20-02-2025\\WebApplication11111\\WebApplication11111\\wwwroot\\js\\site.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1271,7 +1271,7 @@
     },
     {
       "Route": "js/site.js",
-      "AssetFile": "C:\\Users\\Orange\\Downloads\\WebApplication11111\\WebApplication11111\\WebApplication11111\\wwwroot\\js\\site.js",
+      "AssetFile": "C:\\Users\\Orange\\Desktop\\.net\\.net\\20-02-2025\\WebApplication11111\\WebApplication11111\\wwwroot\\js\\site.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1308,7 +1308,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.js",
-      "AssetFile": "C:\\Users\\Orange\\Downloads\\WebApplication11111\\WebApplication11111\\WebApplication11111\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "AssetFile": "C:\\Users\\Orange\\Desktop\\.net\\.net\\20-02-2025\\WebApplication11111\\WebApplication11111\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1345,7 +1345,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.js.kbynt5jhd9.map",
-      "AssetFile": "C:\\Users\\Orange\\Downloads\\WebApplication11111\\WebApplication11111\\WebApplication11111\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "AssetFile": "C:\\Users\\Orange\\Desktop\\.net\\.net\\20-02-2025\\WebApplication11111\\WebApplication11111\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1390,7 +1390,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
-      "AssetFile": "C:\\Users\\Orange\\Downloads\\WebApplication11111\\WebApplication11111\\WebApplication11111\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "AssetFile": "C:\\Users\\Orange\\Desktop\\.net\\.net\\20-02-2025\\WebApplication11111\\WebApplication11111\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1427,7 +1427,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.l2av4jpuoj.js",
-      "AssetFile": "C:\\Users\\Orange\\Downloads\\WebApplication11111\\WebApplication11111\\WebApplication11111\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "AssetFile": "C:\\Users\\Orange\\Desktop\\.net\\.net\\20-02-2025\\WebApplication11111\\WebApplication11111\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1472,7 +1472,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.25iw1kog22.js",
-      "AssetFile": "C:\\Users\\Orange\\Downloads\\WebApplication11111\\WebApplication11111\\WebApplication11111\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "AssetFile": "C:\\Users\\Orange\\Desktop\\.net\\.net\\20-02-2025\\WebApplication11111\\WebApplication11111\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1517,7 +1517,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
-      "AssetFile": "C:\\Users\\Orange\\Downloads\\WebApplication11111\\WebApplication11111\\WebApplication11111\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "AssetFile": "C:\\Users\\Orange\\Desktop\\.net\\.net\\20-02-2025\\WebApplication11111\\WebApplication11111\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1554,7 +1554,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.c2nslu3uf3.map",
-      "AssetFile": "C:\\Users\\Orange\\Downloads\\WebApplication11111\\WebApplication11111\\WebApplication11111\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "AssetFile": "C:\\Users\\Orange\\Desktop\\.net\\.net\\20-02-2025\\WebApplication11111\\WebApplication11111\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1599,7 +1599,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
-      "AssetFile": "C:\\Users\\Orange\\Downloads\\WebApplication11111\\WebApplication11111\\WebApplication11111\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "AssetFile": "C:\\Users\\Orange\\Desktop\\.net\\.net\\20-02-2025\\WebApplication11111\\WebApplication11111\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1636,7 +1636,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.js",
-      "AssetFile": "C:\\Users\\Orange\\Downloads\\WebApplication11111\\WebApplication11111\\WebApplication11111\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "AssetFile": "C:\\Users\\Orange\\Desktop\\.net\\.net\\20-02-2025\\WebApplication11111\\WebApplication11111\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1673,7 +1673,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.js.2lgwfvgpvi.map",
-      "AssetFile": "C:\\Users\\Orange\\Downloads\\WebApplication11111\\WebApplication11111\\WebApplication11111\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "AssetFile": "C:\\Users\\Orange\\Desktop\\.net\\.net\\20-02-2025\\WebApplication11111\\WebApplication11111\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1718,7 +1718,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
-      "AssetFile": "C:\\Users\\Orange\\Downloads\\WebApplication11111\\WebApplication11111\\WebApplication11111\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "AssetFile": "C:\\Users\\Orange\\Desktop\\.net\\.net\\20-02-2025\\WebApplication11111\\WebApplication11111\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1755,7 +1755,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.m39kt2b5c9.js",
-      "AssetFile": "C:\\Users\\Orange\\Downloads\\WebApplication11111\\WebApplication11111\\WebApplication11111\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "AssetFile": "C:\\Users\\Orange\\Desktop\\.net\\.net\\20-02-2025\\WebApplication11111\\WebApplication11111\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1800,7 +1800,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
-      "AssetFile": "C:\\Users\\Orange\\Downloads\\WebApplication11111\\WebApplication11111\\WebApplication11111\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "AssetFile": "C:\\Users\\Orange\\Desktop\\.net\\.net\\20-02-2025\\WebApplication11111\\WebApplication11111\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1837,7 +1837,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
-      "AssetFile": "C:\\Users\\Orange\\Downloads\\WebApplication11111\\WebApplication11111\\WebApplication11111\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "AssetFile": "C:\\Users\\Orange\\Desktop\\.net\\.net\\20-02-2025\\WebApplication11111\\WebApplication11111\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1874,7 +1874,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.js.wsezl0heh6.map",
-      "AssetFile": "C:\\Users\\Orange\\Downloads\\WebApplication11111\\WebApplication11111\\WebApplication11111\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "AssetFile": "C:\\Users\\Orange\\Desktop\\.net\\.net\\20-02-2025\\WebApplication11111\\WebApplication11111\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1919,7 +1919,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.um2aeqy4ik.js",
-      "AssetFile": "C:\\Users\\Orange\\Downloads\\WebApplication11111\\WebApplication11111\\WebApplication11111\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "AssetFile": "C:\\Users\\Orange\\Desktop\\.net\\.net\\20-02-2025\\WebApplication11111\\WebApplication11111\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1964,7 +1964,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.js",
-      "AssetFile": "C:\\Users\\Orange\\Downloads\\WebApplication11111\\WebApplication11111\\WebApplication11111\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "AssetFile": "C:\\Users\\Orange\\Desktop\\.net\\.net\\20-02-2025\\WebApplication11111\\WebApplication11111\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2001,7 +2001,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.js.6ukhryfubh.map",
-      "AssetFile": "C:\\Users\\Orange\\Downloads\\WebApplication11111\\WebApplication11111\\WebApplication11111\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "AssetFile": "C:\\Users\\Orange\\Desktop\\.net\\.net\\20-02-2025\\WebApplication11111\\WebApplication11111\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2046,7 +2046,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.js.map",
-      "AssetFile": "C:\\Users\\Orange\\Downloads\\WebApplication11111\\WebApplication11111\\WebApplication11111\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "AssetFile": "C:\\Users\\Orange\\Desktop\\.net\\.net\\20-02-2025\\WebApplication11111\\WebApplication11111\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2083,7 +2083,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.js",
-      "AssetFile": "C:\\Users\\Orange\\Downloads\\WebApplication11111\\WebApplication11111\\WebApplication11111\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "AssetFile": "C:\\Users\\Orange\\Desktop\\.net\\.net\\20-02-2025\\WebApplication11111\\WebApplication11111\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2120,7 +2120,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.js.map",
-      "AssetFile": "C:\\Users\\Orange\\Downloads\\WebApplication11111\\WebApplication11111\\WebApplication11111\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "AssetFile": "C:\\Users\\Orange\\Desktop\\.net\\.net\\20-02-2025\\WebApplication11111\\WebApplication11111\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2157,7 +2157,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.js.u33ctipx7g.map",
-      "AssetFile": "C:\\Users\\Orange\\Downloads\\WebApplication11111\\WebApplication11111\\WebApplication11111\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "AssetFile": "C:\\Users\\Orange\\Desktop\\.net\\.net\\20-02-2025\\WebApplication11111\\WebApplication11111\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2202,7 +2202,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.zwph15dxgs.js",
-      "AssetFile": "C:\\Users\\Orange\\Downloads\\WebApplication11111\\WebApplication11111\\WebApplication11111\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "AssetFile": "C:\\Users\\Orange\\Desktop\\.net\\.net\\20-02-2025\\WebApplication11111\\WebApplication11111\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2247,7 +2247,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.o4kw7cc6tf.js",
-      "AssetFile": "C:\\Users\\Orange\\Downloads\\WebApplication11111\\WebApplication11111\\WebApplication11111\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "AssetFile": "C:\\Users\\Orange\\Desktop\\.net\\.net\\20-02-2025\\WebApplication11111\\WebApplication11111\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2292,7 +2292,7 @@
     },
     {
       "Route": "lib/bootstrap/LICENSE",
-      "AssetFile": "C:\\Users\\Orange\\Downloads\\WebApplication11111\\WebApplication11111\\WebApplication11111\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "AssetFile": "C:\\Users\\Orange\\Desktop\\.net\\.net\\20-02-2025\\WebApplication11111\\WebApplication11111\\wwwroot\\lib\\bootstrap\\LICENSE",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2329,7 +2329,7 @@
     },
     {
       "Route": "lib/bootstrap/LICENSE.81b7ukuj9c",
-      "AssetFile": "C:\\Users\\Orange\\Downloads\\WebApplication11111\\WebApplication11111\\WebApplication11111\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "AssetFile": "C:\\Users\\Orange\\Desktop\\.net\\.net\\20-02-2025\\WebApplication11111\\WebApplication11111\\wwwroot\\lib\\bootstrap\\LICENSE",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2374,7 +2374,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.fwhahm2icz.js",
-      "AssetFile": "C:\\Users\\Orange\\Downloads\\WebApplication11111\\WebApplication11111\\WebApplication11111\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "AssetFile": "C:\\Users\\Orange\\Desktop\\.net\\.net\\20-02-2025\\WebApplication11111\\WebApplication11111\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2419,7 +2419,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.js",
-      "AssetFile": "C:\\Users\\Orange\\Downloads\\WebApplication11111\\WebApplication11111\\WebApplication11111\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "AssetFile": "C:\\Users\\Orange\\Desktop\\.net\\.net\\20-02-2025\\WebApplication11111\\WebApplication11111\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2456,7 +2456,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.5pze98is44.map",
-      "AssetFile": "C:\\Users\\Orange\\Downloads\\WebApplication11111\\WebApplication11111\\WebApplication11111\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "AssetFile": "C:\\Users\\Orange\\Desktop\\.net\\.net\\20-02-2025\\WebApplication11111\\WebApplication11111\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2501,7 +2501,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.dd6z7egasc.js",
-      "AssetFile": "C:\\Users\\Orange\\Downloads\\WebApplication11111\\WebApplication11111\\WebApplication11111\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "AssetFile": "C:\\Users\\Orange\\Desktop\\.net\\.net\\20-02-2025\\WebApplication11111\\WebApplication11111\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2546,7 +2546,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.js",
-      "AssetFile": "C:\\Users\\Orange\\Downloads\\WebApplication11111\\WebApplication11111\\WebApplication11111\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "AssetFile": "C:\\Users\\Orange\\Desktop\\.net\\.net\\20-02-2025\\WebApplication11111\\WebApplication11111\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2583,7 +2583,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.map",
-      "AssetFile": "C:\\Users\\Orange\\Downloads\\WebApplication11111\\WebApplication11111\\WebApplication11111\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "AssetFile": "C:\\Users\\Orange\\Desktop\\.net\\.net\\20-02-2025\\WebApplication11111\\WebApplication11111\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2620,7 +2620,7 @@
     },
     {
       "Route": "lib/jquery/LICENSE.mlv21k5csn.txt",
-      "AssetFile": "C:\\Users\\Orange\\Downloads\\WebApplication11111\\WebApplication11111\\WebApplication11111\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "AssetFile": "C:\\Users\\Orange\\Desktop\\.net\\.net\\20-02-2025\\WebApplication11111\\WebApplication11111\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2665,7 +2665,7 @@
     },
     {
       "Route": "lib/jquery/LICENSE.txt",
-      "AssetFile": "C:\\Users\\Orange\\Downloads\\WebApplication11111\\WebApplication11111\\WebApplication11111\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "AssetFile": "C:\\Users\\Orange\\Desktop\\.net\\.net\\20-02-2025\\WebApplication11111\\WebApplication11111\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2702,7 +2702,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.ay5nd8zt9x.js",
-      "AssetFile": "C:\\Users\\Orange\\Downloads\\WebApplication11111\\WebApplication11111\\WebApplication11111\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "AssetFile": "C:\\Users\\Orange\\Desktop\\.net\\.net\\20-02-2025\\WebApplication11111\\WebApplication11111\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2747,7 +2747,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.js",
-      "AssetFile": "C:\\Users\\Orange\\Downloads\\WebApplication11111\\WebApplication11111\\WebApplication11111\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "AssetFile": "C:\\Users\\Orange\\Desktop\\.net\\.net\\20-02-2025\\WebApplication11111\\WebApplication11111\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2784,7 +2784,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.min.9oaff4kq20.js",
-      "AssetFile": "C:\\Users\\Orange\\Downloads\\WebApplication11111\\WebApplication11111\\WebApplication11111\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "AssetFile": "C:\\Users\\Orange\\Desktop\\.net\\.net\\20-02-2025\\WebApplication11111\\WebApplication11111\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2829,7 +2829,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.min.js",
-      "AssetFile": "C:\\Users\\Orange\\Downloads\\WebApplication11111\\WebApplication11111\\WebApplication11111\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "AssetFile": "C:\\Users\\Orange\\Desktop\\.net\\.net\\20-02-2025\\WebApplication11111\\WebApplication11111\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2866,7 +2866,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.js",
-      "AssetFile": "C:\\Users\\Orange\\Downloads\\WebApplication11111\\WebApplication11111\\WebApplication11111\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "AssetFile": "C:\\Users\\Orange\\Desktop\\.net\\.net\\20-02-2025\\WebApplication11111\\WebApplication11111\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2903,7 +2903,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.min.b7iojwaux1.js",
-      "AssetFile": "C:\\Users\\Orange\\Downloads\\WebApplication11111\\WebApplication11111\\WebApplication11111\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "AssetFile": "C:\\Users\\Orange\\Desktop\\.net\\.net\\20-02-2025\\WebApplication11111\\WebApplication11111\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2948,7 +2948,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.min.js",
-      "AssetFile": "C:\\Users\\Orange\\Downloads\\WebApplication11111\\WebApplication11111\\WebApplication11111\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "AssetFile": "C:\\Users\\Orange\\Desktop\\.net\\.net\\20-02-2025\\WebApplication11111\\WebApplication11111\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2985,7 +2985,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.pzqfkb6aqo.js",
-      "AssetFile": "C:\\Users\\Orange\\Downloads\\WebApplication11111\\WebApplication11111\\WebApplication11111\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "AssetFile": "C:\\Users\\Orange\\Desktop\\.net\\.net\\20-02-2025\\WebApplication11111\\WebApplication11111\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3030,7 +3030,7 @@
     },
     {
       "Route": "lib/jquery-validation/LICENSE.md",
-      "AssetFile": "C:\\Users\\Orange\\Downloads\\WebApplication11111\\WebApplication11111\\WebApplication11111\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "AssetFile": "C:\\Users\\Orange\\Desktop\\.net\\.net\\20-02-2025\\WebApplication11111\\WebApplication11111\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3067,7 +3067,7 @@
     },
     {
       "Route": "lib/jquery-validation/LICENSE.x0q3zqp4vz.md",
-      "AssetFile": "C:\\Users\\Orange\\Downloads\\WebApplication11111\\WebApplication11111\\WebApplication11111\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "AssetFile": "C:\\Users\\Orange\\Desktop\\.net\\.net\\20-02-2025\\WebApplication11111\\WebApplication11111\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3112,7 +3112,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.47otxtyo56.js",
-      "AssetFile": "C:\\Users\\Orange\\Downloads\\WebApplication11111\\WebApplication11111\\WebApplication11111\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "AssetFile": "C:\\Users\\Orange\\Desktop\\.net\\.net\\20-02-2025\\WebApplication11111\\WebApplication11111\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3157,7 +3157,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
-      "AssetFile": "C:\\Users\\Orange\\Downloads\\WebApplication11111\\WebApplication11111\\WebApplication11111\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "AssetFile": "C:\\Users\\Orange\\Desktop\\.net\\.net\\20-02-2025\\WebApplication11111\\WebApplication11111\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3194,7 +3194,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.4v8eqarkd7.js",
-      "AssetFile": "C:\\Users\\Orange\\Downloads\\WebApplication11111\\WebApplication11111\\WebApplication11111\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "AssetFile": "C:\\Users\\Orange\\Desktop\\.net\\.net\\20-02-2025\\WebApplication11111\\WebApplication11111\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3239,7 +3239,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
-      "AssetFile": "C:\\Users\\Orange\\Downloads\\WebApplication11111\\WebApplication11111\\WebApplication11111\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "AssetFile": "C:\\Users\\Orange\\Desktop\\.net\\.net\\20-02-2025\\WebApplication11111\\WebApplication11111\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3276,7 +3276,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/LICENSE.356vix0kms.txt",
-      "AssetFile": "C:\\Users\\Orange\\Downloads\\WebApplication11111\\WebApplication11111\\WebApplication11111\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "AssetFile": "C:\\Users\\Orange\\Desktop\\.net\\.net\\20-02-2025\\WebApplication11111\\WebApplication11111\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3321,7 +3321,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/LICENSE.txt",
-      "AssetFile": "C:\\Users\\Orange\\Downloads\\WebApplication11111\\WebApplication11111\\WebApplication11111\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "AssetFile": "C:\\Users\\Orange\\Desktop\\.net\\.net\\20-02-2025\\WebApplication11111\\WebApplication11111\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3358,7 +3358,7 @@
     },
     {
       "Route": "WebApplication11111.8pjrco3qnm.bundle.scp.css",
-      "AssetFile": "C:\\Users\\Orange\\Downloads\\WebApplication11111\\WebApplication11111\\WebApplication11111\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\WebApplication11111.bundle.scp.css",
+      "AssetFile": "C:\\Users\\Orange\\Desktop\\.net\\.net\\20-02-2025\\WebApplication11111\\WebApplication11111\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\WebApplication11111.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3403,7 +3403,7 @@
     },
     {
       "Route": "WebApplication11111.8pjrco3qnm.styles.css",
-      "AssetFile": "C:\\Users\\Orange\\Downloads\\WebApplication11111\\WebApplication11111\\WebApplication11111\\obj\\Debug\\net8.0\\scopedcss\\bundle\\WebApplication11111.styles.css",
+      "AssetFile": "C:\\Users\\Orange\\Desktop\\.net\\.net\\20-02-2025\\WebApplication11111\\WebApplication11111\\obj\\Debug\\net8.0\\scopedcss\\bundle\\WebApplication11111.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3448,7 +3448,7 @@
     },
     {
       "Route": "WebApplication11111.bundle.scp.css",
-      "AssetFile": "C:\\Users\\Orange\\Downloads\\WebApplication11111\\WebApplication11111\\WebApplication11111\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\WebApplication11111.bundle.scp.css",
+      "AssetFile": "C:\\Users\\Orange\\Desktop\\.net\\.net\\20-02-2025\\WebApplication11111\\WebApplication11111\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\WebApplication11111.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3485,7 +3485,7 @@
     },
     {
       "Route": "WebApplication11111.styles.css",
-      "AssetFile": "C:\\Users\\Orange\\Downloads\\WebApplication11111\\WebApplication11111\\WebApplication11111\\obj\\Debug\\net8.0\\scopedcss\\bundle\\WebApplication11111.styles.css",
+      "AssetFile": "C:\\Users\\Orange\\Desktop\\.net\\.net\\20-02-2025\\WebApplication11111\\WebApplication11111\\obj\\Debug\\net8.0\\scopedcss\\bundle\\WebApplication11111.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
