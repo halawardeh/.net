@@ -1,0 +1,45 @@
+﻿@model IEnumerable<_23_02_2025.Models.Department>
+
+
+
+<p>
+    <a asp-controller="Department" asp-action="Create">Add User</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                <h3>FirstName</h3>
+            </th>
+            <th>
+                <h3>LastName</h3>
+            </th>
+            <th>
+                <h3>Email</h3>
+            </th>
+            <th>
+                <h3>PhoneNumber</h3>
+            </th>
+        </tr>
+    </thead>
+   <tbody>
+        @foreach (var item in Model)
+        {
+
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.FirstName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.LastName)
+            </td>
+                <td>
+                    @item.Email
+                </td>
+                <td>
+                    @item.PhoneNumber
+                </td>
+        </tr>
+        }
+       
+    </tbody>

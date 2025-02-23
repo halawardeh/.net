@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Orange\\Desktop\\.net\\.net\\with_sql\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F0257016-894E-4689-AF9A-11425D61221D}|with_sql\\with_sql.csproj|c:\\users\\orange\\desktop\\.net\\.net\\with_sql\\with_sql\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F0257016-894E-4689-AF9A-11425D61221D}|with_sql\\with_sql.csproj|solutionrelative:with_sql\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0257016-894E-4689-AF9A-11425D61221D}|with_sql\\with_sql.csproj|c:\\users\\orange\\desktop\\.net\\.net\\with_sql\\with_sql\\views\\users\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F0257016-894E-4689-AF9A-11425D61221D}|with_sql\\with_sql.csproj|solutionrelative:with_sql\\views\\users\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0257016-894E-4689-AF9A-11425D61221D}|with_sql\\with_sql.csproj|c:\\users\\orange\\desktop\\.net\\.net\\with_sql\\with_sql\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0257016-894E-4689-AF9A-11425D61221D}|with_sql\\with_sql.csproj|solutionrelative:with_sql\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0257016-894E-4689-AF9A-11425D61221D}|with_sql\\with_sql.csproj|c:\\users\\orange\\desktop\\.net\\.net\\with_sql\\with_sql\\models\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0257016-894E-4689-AF9A-11425D61221D}|with_sql\\with_sql.csproj|solutionrelative:with_sql\\models\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0257016-894E-4689-AF9A-11425D61221D}|with_sql\\with_sql.csproj|c:\\users\\orange\\desktop\\.net\\.net\\with_sql\\with_sql\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F0257016-894E-4689-AF9A-11425D61221D}|with_sql\\with_sql.csproj|solutionrelative:with_sql\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 136,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\.net\\.net\\with_sql\\with_sql\\Views\\Users\\Create.cshtml",
+              "RelativeDocumentMoniker": "with_sql\\Views\\Users\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\.net\\.net\\with_sql\\with_sql\\Views\\Users\\Create.cshtml",
+              "RelativeToolTip": "with_sql\\Views\\Users\\Create.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-23T10:00:14.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\.net\\.net\\with_sql\\with_sql\\Views\\Users\\Index.cshtml",
+              "RelativeDocumentMoniker": "with_sql\\Views\\Users\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\.net\\.net\\with_sql\\with_sql\\Views\\Users\\Index.cshtml",
+              "RelativeToolTip": "with_sql\\Views\\Users\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-23T09:30:30.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\.net\\.net\\with_sql\\with_sql\\appsettings.json",
+              "RelativeDocumentMoniker": "with_sql\\appsettings.json",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\.net\\.net\\with_sql\\with_sql\\appsettings.json",
+              "RelativeToolTip": "with_sql\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-23T07:27:36.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\.net\\.net\\with_sql\\with_sql\\Program.cs",
+              "RelativeDocumentMoniker": "with_sql\\Program.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\.net\\.net\\with_sql\\with_sql\\Program.cs",
+              "RelativeToolTip": "with_sql\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T07:26:34.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MyDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\.net\\.net\\with_sql\\with_sql\\Models\\MyDbContext.cs",
+              "RelativeDocumentMoniker": "with_sql\\Models\\MyDbContext.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\.net\\.net\\with_sql\\with_sql\\Models\\MyDbContext.cs",
+              "RelativeToolTip": "with_sql\\Models\\MyDbContext.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T07:26:17.927Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

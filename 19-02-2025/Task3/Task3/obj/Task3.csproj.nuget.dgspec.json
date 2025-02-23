@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Orange\\Downloads\\19-02-2025\\19-02-2025\\Task3\\Task3\\Task3.csproj": {}
+    "C:\\Users\\Orange\\Desktop\\.net\\.net\\19-02-2025\\Task3\\Task3\\Task3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Orange\\Downloads\\19-02-2025\\19-02-2025\\Task3\\Task3\\Task3.csproj": {
+    "C:\\Users\\Orange\\Desktop\\.net\\.net\\19-02-2025\\Task3\\Task3\\Task3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Orange\\Downloads\\19-02-2025\\19-02-2025\\Task3\\Task3\\Task3.csproj",
+        "projectUniqueName": "C:\\Users\\Orange\\Desktop\\.net\\.net\\19-02-2025\\Task3\\Task3\\Task3.csproj",
         "projectName": "Task3",
-        "projectPath": "C:\\Users\\Orange\\Downloads\\19-02-2025\\19-02-2025\\Task3\\Task3\\Task3.csproj",
+        "projectPath": "C:\\Users\\Orange\\Desktop\\.net\\.net\\19-02-2025\\Task3\\Task3\\Task3.csproj",
         "packagesPath": "C:\\Users\\Orange\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Orange\\Downloads\\19-02-2025\\19-02-2025\\Task3\\Task3\\obj\\",
+        "outputPath": "C:\\Users\\Orange\\Desktop\\.net\\.net\\19-02-2025\\Task3\\Task3\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

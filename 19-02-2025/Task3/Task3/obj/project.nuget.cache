@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jKYQL+GCtRA=",
+  "dgSpecHash": "HNSHH/Hf2p4=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Orange\\Downloads\\19-02-2025\\19-02-2025\\Task3\\Task3\\Task3.csproj",
+  "projectFilePath": "C:\\Users\\Orange\\Desktop\\.net\\.net\\19-02-2025\\Task3\\Task3\\Task3.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Orange\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\Orange\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
