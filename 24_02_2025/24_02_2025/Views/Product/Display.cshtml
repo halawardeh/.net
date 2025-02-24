@@ -1,0 +1,33 @@
+﻿@model _24_02_2025.Models.Product
+
+<h4>Display Product Details</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <div class="form-group">
+            <img src="@Model.Image" alt="@Model.Name" class="card-image" />
+        </div>
+        <div class="form-group">
+            <label class="control-label">Product Name</label>
+            <div class="form-control">@Model.Name</div>
+        </div>
+
+        <div class="form-group">
+            <label class="control-label">
+                Description</label>
+            <div class="form-control">@Model.Description</div>
+        </div>
+
+        <div class="form-group">
+            <label class="control-label">Price</label>
+            <div class="form-control">@Model.Price</div>
+        </div>
+
+       
+    </div>
+</div>
+
+<div>
+    <a asp-controller="Product" asp-action="Index">Back to List</a>
+</div>
+
