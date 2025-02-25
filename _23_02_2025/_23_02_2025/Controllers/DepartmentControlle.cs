@@ -30,13 +30,100 @@ namespace _23_02_2025.Controllers
             return View(_context.Departments.ToList());
         }
 
-
-
         public IActionResult Create()
         {
             return View();
         }
 
+        public IActionResult Delete()
+        {
+            return View();
+        }
+        public IActionResult Dispaly()
+        {
+            return View();
+        }
+
+        //public IActionResult Update( int id)
+        //{
+        //    var employee = _context.Departments.Find(id);
+        //    return View(employee);
+        //}
+
+
+        //[HttpPost]
+        //public IActionResult Update(Department employee)
+        //{
+        //    _context.Update(employee);
+        //    _context.SaveChanges();
+        //    return RedirectToAction("Index");
+        //}
+        public IActionResult Update()
+        {
+            return View();
+        }
+
+        [HttpPost]
+        public IActionResult Update(int id, string firstName, string lastName, string email, string phoneNumber)
+        {
+            var employee = _context.Departments.Find(id);
+
+
+            if (employee == null)
+            {
+                return NotFound(); 
+            }
+
+            
+            if (!string.IsNullOrEmpty(firstName))
+            {
+                employee.FirstName = firstName;
+            }
+
+            if (!string.IsNullOrEmpty(lastName))
+            {
+                employee.LastName = lastName;
+            }
+
+            if (!string.IsNullOrEmpty(email))
+            {
+                employee.Email = email;
+            }
+
+            if (!string.IsNullOrEmpty(phoneNumber))
+            {
+                employee.PhoneNumber = phoneNumber;
+            }
+
+          
+            _context.SaveChanges();
+
+            
+            return View(employee);
+        }
+
+
+
+        [HttpGet]
+        public IActionResult Display(int Id)
+        {
+            var employee = _context.Departments.Find(Id);
+          
+            return View(employee);
+        }
+
+
+        [HttpPost]
+        public IActionResult Delete(int Id )
+        {
+            var employee = _context.Departments.Find(Id);
+            _context.Departments.Remove(employee);
+            _context.SaveChanges();
+            return RedirectToAction("Index");
+        
+        }
+       
+    
 
         [HttpPost]
         public IActionResult Create(Department employee)

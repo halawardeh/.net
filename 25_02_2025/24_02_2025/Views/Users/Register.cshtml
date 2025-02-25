@@ -1,0 +1,30 @@
+﻿@model _24_02_2025.Models.User
+
+@{
+    ViewData["Title"] = "Register";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <link href="/css/Register.css" rel="stylesheet" />
+</head>
+<body>
+    <div class="container">
+        <h2>Register</h2>
+        <form asp-action="Register" method="post">
+            <label for="name">Name</label>
+            <input type="text" id="name" name="Name" asp-for="Name" placeholder="Enter your name" required>
+
+            <label for="email">Email</label>
+            <input type="email" id="email" name="Email" asp-for="Email" placeholder="Enter your email" required>
+
+            <label for="password">Password</label>
+            <input type="password" id="password" name="Password" asp-for="Password" placeholder="Create a password" required>
+
+            <button type="submit">Sign Up</button>
+        </form>
+        <a asp-action="Index">Back to List</a>
+    </div>
+</body>
+</html>

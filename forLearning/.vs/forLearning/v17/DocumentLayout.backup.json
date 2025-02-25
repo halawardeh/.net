@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Orange\\Desktop\\.net\\.net\\forLearning\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{80853B19-8208-456C-84FA-2117C12E037B}|ForLearning\\ForLearning.csproj|c:\\users\\orange\\desktop\\.net\\.net\\forlearning\\forlearning\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80853B19-8208-456C-84FA-2117C12E037B}|ForLearning\\ForLearning.csproj|solutionrelative:forlearning\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80853B19-8208-456C-84FA-2117C12E037B}|ForLearning\\ForLearning.csproj|c:\\users\\orange\\desktop\\.net\\.net\\forlearning\\forlearning\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{80853B19-8208-456C-84FA-2117C12E037B}|ForLearning\\ForLearning.csproj|solutionrelative:forlearning\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80853B19-8208-456C-84FA-2117C12E037B}|ForLearning\\ForLearning.csproj|c:\\users\\orange\\desktop\\.net\\.net\\forlearning\\forlearning\\views\\user\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{80853B19-8208-456C-84FA-2117C12E037B}|ForLearning\\ForLearning.csproj|solutionrelative:forlearning\\views\\user\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{80853B19-8208-456C-84FA-2117C12E037B}|ForLearning\\ForLearning.csproj|c:\\users\\orange\\desktop\\.net\\.net\\forlearning\\forlearning\\views\\user\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{80853B19-8208-456C-84FA-2117C12E037B}|ForLearning\\ForLearning.csproj|solutionrelative:forlearning\\views\\user\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{80853B19-8208-456C-84FA-2117C12E037B}|ForLearning\\ForLearning.csproj|c:\\users\\orange\\desktop\\.net\\.net\\forlearning\\forlearning\\views\\user\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{80853B19-8208-456C-84FA-2117C12E037B}|ForLearning\\ForLearning.csproj|solutionrelative:forlearning\\views\\user\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80853B19-8208-456C-84FA-2117C12E037B}|ForLearning\\ForLearning.csproj|c:\\users\\orange\\desktop\\.net\\.net\\forlearning\\forlearning\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80853B19-8208-456C-84FA-2117C12E037B}|ForLearning\\ForLearning.csproj|solutionrelative:forlearning\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80853B19-8208-456C-84FA-2117C12E037B}|ForLearning\\ForLearning.csproj|c:\\users\\orange\\desktop\\.net\\.net\\forlearning\\forlearning\\views\\user\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{80853B19-8208-456C-84FA-2117C12E037B}|ForLearning\\ForLearning.csproj|solutionrelative:forlearning\\views\\user\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80853B19-8208-456C-84FA-2117C12E037B}|ForLearning\\ForLearning.csproj|c:\\users\\orange\\desktop\\.net\\.net\\forlearning\\forlearning\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{80853B19-8208-456C-84FA-2117C12E037B}|ForLearning\\ForLearning.csproj|solutionrelative:forlearning\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{80853B19-8208-456C-84FA-2117C12E037B}|ForLearning\\ForLearning.csproj|c:\\users\\orange\\desktop\\.net\\.net\\forlearning\\forlearning\\pages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -70,7 +70,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 14,
           "Children": [
             {
               "$type": "Bookmark",
@@ -150,20 +150,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "UserController.cs",
               "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\.net\\.net\\forLearning\\forLearning\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "forLearning\\Controllers\\UserController.cs",
               "ToolTip": "C:\\Users\\Orange\\Desktop\\.net\\.net\\forLearning\\forLearning\\Controllers\\UserController.cs",
               "RelativeToolTip": "forLearning\\Controllers\\UserController.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBsAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAADMAAAAAAAAAAAAowE4AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-21T16:34:24.786Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Profile.cshtml",
               "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\.net\\.net\\forLearning\\forLearning\\Views\\User\\Profile.cshtml",
               "RelativeDocumentMoniker": "forLearning\\Views\\User\\Profile.cshtml",
@@ -171,7 +171,8 @@
               "RelativeToolTip": "forLearning\\Views\\User\\Profile.cshtml",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAACEAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-21T13:26:31.124Z"
+              "WhenOpened": "2025-02-21T13:26:31.124Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -187,26 +188,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Register.cshtml",
               "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\.net\\.net\\forLearning\\forLearning\\Views\\User\\Register.cshtml",
               "RelativeDocumentMoniker": "forLearning\\Views\\User\\Register.cshtml",
               "ToolTip": "C:\\Users\\Orange\\Desktop\\.net\\.net\\forLearning\\forLearning\\Views\\User\\Register.cshtml",
               "RelativeToolTip": "forLearning\\Views\\User\\Register.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-02-21T13:06:34.332Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\.net\\.net\\forLearning\\forLearning\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "forLearning\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\Orange\\Desktop\\.net\\.net\\forLearning\\forLearning\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "forLearning\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAACIAAAByAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-02-21T12:46:49.315Z",
               "EditorCaption": ""
@@ -237,15 +238,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Login.cshtml",
               "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\.net\\.net\\forLearning\\forLearning\\Views\\User\\Login.cshtml",
               "RelativeDocumentMoniker": "forLearning\\Views\\User\\Login.cshtml",
               "ToolTip": "C:\\Users\\Orange\\Desktop\\.net\\.net\\forLearning\\forLearning\\Views\\User\\Login.cshtml",
               "RelativeToolTip": "forLearning\\Views\\User\\Login.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAABDAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-21T12:41:48.75Z"
+              "WhenOpened": "2025-02-21T12:41:48.75Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",

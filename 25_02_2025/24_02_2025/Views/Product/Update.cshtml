@@ -1,0 +1,24 @@
+﻿@model _24_02_2025.Models.Product
+
+
+<h4>Update Product</h4>
+
+<form method="post" action="@Url.Action("Update", "Product", new { id = Model.Id })">
+    <label for="Name"> Name:</label>
+    <input type="text" id="Name" name="Name" value="@Model.Name" />
+
+    <label for="Description">Description:</label>
+    <input type="text" id="Description" name="Description" value="@Model.Description" />
+
+    <label for="Price">Price:</label>
+    <input type="Price" id="Price" name="Price" value="@Model.Price" />
+
+    <label for="Image">Image:</label>
+    <input type="text" id="Image" name="Image" value="@Model.Image" />
+
+    <button type="submit">Update</button>
+</form>
+<div>
+    <a asp-controller="Product" asp-action="Index">Back to List</a>
+</div>
+

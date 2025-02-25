@@ -1,0 +1,342 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Orange\\Desktop\\24_02_2025\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{187678FB-3DFB-4721-9D30-D1457E34D9F1}|24_02_2025\\24_02_2025.csproj|c:\\users\\orange\\desktop\\24_02_2025\\24_02_2025\\views\\users\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{187678FB-3DFB-4721-9D30-D1457E34D9F1}|24_02_2025\\24_02_2025.csproj|solutionrelative:24_02_2025\\views\\users\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{187678FB-3DFB-4721-9D30-D1457E34D9F1}|24_02_2025\\24_02_2025.csproj|c:\\users\\orange\\desktop\\24_02_2025\\24_02_2025\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{187678FB-3DFB-4721-9D30-D1457E34D9F1}|24_02_2025\\24_02_2025.csproj|solutionrelative:24_02_2025\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{187678FB-3DFB-4721-9D30-D1457E34D9F1}|24_02_2025\\24_02_2025.csproj|c:\\users\\orange\\desktop\\24_02_2025\\24_02_2025\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{187678FB-3DFB-4721-9D30-D1457E34D9F1}|24_02_2025\\24_02_2025.csproj|solutionrelative:24_02_2025\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{187678FB-3DFB-4721-9D30-D1457E34D9F1}|24_02_2025\\24_02_2025.csproj|c:\\users\\orange\\desktop\\24_02_2025\\24_02_2025\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{187678FB-3DFB-4721-9D30-D1457E34D9F1}|24_02_2025\\24_02_2025.csproj|solutionrelative:24_02_2025\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{187678FB-3DFB-4721-9D30-D1457E34D9F1}|24_02_2025\\24_02_2025.csproj|c:\\users\\orange\\desktop\\24_02_2025\\24_02_2025\\views\\users\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{187678FB-3DFB-4721-9D30-D1457E34D9F1}|24_02_2025\\24_02_2025.csproj|solutionrelative:24_02_2025\\views\\users\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{187678FB-3DFB-4721-9D30-D1457E34D9F1}|24_02_2025\\24_02_2025.csproj|c:\\users\\orange\\desktop\\24_02_2025\\24_02_2025\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{187678FB-3DFB-4721-9D30-D1457E34D9F1}|24_02_2025\\24_02_2025.csproj|solutionrelative:24_02_2025\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{187678FB-3DFB-4721-9D30-D1457E34D9F1}|24_02_2025\\24_02_2025.csproj|c:\\users\\orange\\desktop\\24_02_2025\\24_02_2025\\views\\users\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{187678FB-3DFB-4721-9D30-D1457E34D9F1}|24_02_2025\\24_02_2025.csproj|solutionrelative:24_02_2025\\views\\users\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{187678FB-3DFB-4721-9D30-D1457E34D9F1}|24_02_2025\\24_02_2025.csproj|c:\\users\\orange\\desktop\\24_02_2025\\24_02_2025\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{187678FB-3DFB-4721-9D30-D1457E34D9F1}|24_02_2025\\24_02_2025.csproj|solutionrelative:24_02_2025\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{187678FB-3DFB-4721-9D30-D1457E34D9F1}|24_02_2025\\24_02_2025.csproj|c:\\users\\orange\\desktop\\24_02_2025\\24_02_2025\\wwwroot\\css\\profilestyle.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{187678FB-3DFB-4721-9D30-D1457E34D9F1}|24_02_2025\\24_02_2025.csproj|solutionrelative:24_02_2025\\wwwroot\\css\\profilestyle.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{187678FB-3DFB-4721-9D30-D1457E34D9F1}|24_02_2025\\24_02_2025.csproj|c:\\users\\orange\\desktop\\24_02_2025\\24_02_2025\\views\\users\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{187678FB-3DFB-4721-9D30-D1457E34D9F1}|24_02_2025\\24_02_2025.csproj|solutionrelative:24_02_2025\\views\\users\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{187678FB-3DFB-4721-9D30-D1457E34D9F1}|24_02_2025\\24_02_2025.csproj|c:\\users\\orange\\desktop\\24_02_2025\\24_02_2025\\models\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{187678FB-3DFB-4721-9D30-D1457E34D9F1}|24_02_2025\\24_02_2025.csproj|solutionrelative:24_02_2025\\models\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{187678FB-3DFB-4721-9D30-D1457E34D9F1}|24_02_2025\\24_02_2025.csproj|c:\\users\\orange\\desktop\\24_02_2025\\24_02_2025\\wwwroot\\css\\register.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{187678FB-3DFB-4721-9D30-D1457E34D9F1}|24_02_2025\\24_02_2025.csproj|solutionrelative:24_02_2025\\wwwroot\\css\\register.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{187678FB-3DFB-4721-9D30-D1457E34D9F1}|24_02_2025\\24_02_2025.csproj|c:\\users\\orange\\desktop\\24_02_2025\\24_02_2025\\views\\users\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{187678FB-3DFB-4721-9D30-D1457E34D9F1}|24_02_2025\\24_02_2025.csproj|solutionrelative:24_02_2025\\views\\users\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{187678FB-3DFB-4721-9D30-D1457E34D9F1}|24_02_2025\\24_02_2025.csproj|c:\\users\\orange\\desktop\\24_02_2025\\24_02_2025\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{187678FB-3DFB-4721-9D30-D1457E34D9F1}|24_02_2025\\24_02_2025.csproj|solutionrelative:24_02_2025\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{187678FB-3DFB-4721-9D30-D1457E34D9F1}|24_02_2025\\24_02_2025.csproj|c:\\users\\orange\\desktop\\24_02_2025\\24_02_2025\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{187678FB-3DFB-4721-9D30-D1457E34D9F1}|24_02_2025\\24_02_2025.csproj|solutionrelative:24_02_2025\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{187678FB-3DFB-4721-9D30-D1457E34D9F1}|24_02_2025\\24_02_2025.csproj|c:\\users\\orange\\desktop\\24_02_2025\\24_02_2025\\views\\product\\display.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{187678FB-3DFB-4721-9D30-D1457E34D9F1}|24_02_2025\\24_02_2025.csproj|solutionrelative:24_02_2025\\views\\product\\display.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{187678FB-3DFB-4721-9D30-D1457E34D9F1}|24_02_2025\\24_02_2025.csproj|c:\\users\\orange\\desktop\\24_02_2025\\24_02_2025\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{187678FB-3DFB-4721-9D30-D1457E34D9F1}|24_02_2025\\24_02_2025.csproj|solutionrelative:24_02_2025\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{187678FB-3DFB-4721-9D30-D1457E34D9F1}|24_02_2025\\24_02_2025.csproj|c:\\users\\orange\\desktop\\24_02_2025\\24_02_2025\\views\\product\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{187678FB-3DFB-4721-9D30-D1457E34D9F1}|24_02_2025\\24_02_2025.csproj|solutionrelative:24_02_2025\\views\\product\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{187678FB-3DFB-4721-9D30-D1457E34D9F1}|24_02_2025\\24_02_2025.csproj|c:\\users\\orange\\desktop\\24_02_2025\\24_02_2025\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{187678FB-3DFB-4721-9D30-D1457E34D9F1}|24_02_2025\\24_02_2025.csproj|solutionrelative:24_02_2025\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 155,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProfileStyle.css",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\24_02_2025\\24_02_2025\\wwwroot\\css\\ProfileStyle.css",
+              "RelativeDocumentMoniker": "24_02_2025\\wwwroot\\css\\ProfileStyle.css",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\24_02_2025\\24_02_2025\\wwwroot\\css\\ProfileStyle.css",
+              "RelativeToolTip": "24_02_2025\\wwwroot\\css\\ProfileStyle.css",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAUwDIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-02-25T19:56:12.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Profile.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\24_02_2025\\24_02_2025\\Views\\Users\\Profile.cshtml",
+              "RelativeDocumentMoniker": "24_02_2025\\Views\\Users\\Profile.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\24_02_2025\\24_02_2025\\Views\\Users\\Profile.cshtml",
+              "RelativeToolTip": "24_02_2025\\Views\\Users\\Profile.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-25T19:54:56.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\24_02_2025\\24_02_2025\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "24_02_2025\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\24_02_2025\\24_02_2025\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "24_02_2025\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-25T19:48:29.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\24_02_2025\\24_02_2025\\Views\\Users\\Details.cshtml",
+              "RelativeDocumentMoniker": "24_02_2025\\Views\\Users\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\24_02_2025\\24_02_2025\\Views\\Users\\Details.cshtml",
+              "RelativeToolTip": "24_02_2025\\Views\\Users\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-25T19:43:48.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\24_02_2025\\24_02_2025\\Views\\Users\\Login.cshtml",
+              "RelativeDocumentMoniker": "24_02_2025\\Views\\Users\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\24_02_2025\\24_02_2025\\Views\\Users\\Login.cshtml",
+              "RelativeToolTip": "24_02_2025\\Views\\Users\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-25T19:38:24.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\24_02_2025\\24_02_2025\\Views\\Users\\Index.cshtml",
+              "RelativeDocumentMoniker": "24_02_2025\\Views\\Users\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\24_02_2025\\24_02_2025\\Views\\Users\\Index.cshtml",
+              "RelativeToolTip": "24_02_2025\\Views\\Users\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-25T19:20:26.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Register.css",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\24_02_2025\\24_02_2025\\wwwroot\\css\\Register.css",
+              "RelativeDocumentMoniker": "24_02_2025\\wwwroot\\css\\Register.css",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\24_02_2025\\24_02_2025\\wwwroot\\css\\Register.css",
+              "RelativeToolTip": "24_02_2025\\wwwroot\\css\\Register.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-02-25T08:29:02.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\24_02_2025\\24_02_2025\\Views\\Users\\Delete.cshtml",
+              "RelativeDocumentMoniker": "24_02_2025\\Views\\Users\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\24_02_2025\\24_02_2025\\Views\\Users\\Delete.cshtml",
+              "RelativeToolTip": "24_02_2025\\Views\\Users\\Delete.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAiwBwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-25T08:23:21.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\24_02_2025\\24_02_2025\\Views\\Users\\Register.cshtml",
+              "RelativeDocumentMoniker": "24_02_2025\\Views\\Users\\Register.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\24_02_2025\\24_02_2025\\Views\\Users\\Register.cshtml",
+              "RelativeToolTip": "24_02_2025\\Views\\Users\\Register.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-25T08:16:33.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\24_02_2025\\24_02_2025\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "24_02_2025\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\24_02_2025\\24_02_2025\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "24_02_2025\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAowEUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T08:12:32.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\24_02_2025\\24_02_2025\\Models\\User.cs",
+              "RelativeDocumentMoniker": "24_02_2025\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\24_02_2025\\24_02_2025\\Models\\User.cs",
+              "RelativeToolTip": "24_02_2025\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T08:05:44.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\24_02_2025\\24_02_2025\\Views\\Product\\Update.cshtml",
+              "RelativeDocumentMoniker": "24_02_2025\\Views\\Product\\Update.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\24_02_2025\\24_02_2025\\Views\\Product\\Update.cshtml",
+              "RelativeToolTip": "24_02_2025\\Views\\Product\\Update.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-24T14:24:03.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Display.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\24_02_2025\\24_02_2025\\Views\\Product\\Display.cshtml",
+              "RelativeDocumentMoniker": "24_02_2025\\Views\\Product\\Display.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\24_02_2025\\24_02_2025\\Views\\Product\\Display.cshtml",
+              "RelativeToolTip": "24_02_2025\\Views\\Product\\Display.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-24T14:23:43.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\24_02_2025\\24_02_2025\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "24_02_2025\\Views\\Product\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\24_02_2025\\24_02_2025\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "24_02_2025\\Views\\Product\\Create.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-24T14:22:53.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\24_02_2025\\24_02_2025\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "24_02_2025\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\24_02_2025\\24_02_2025\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "24_02_2025\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAABcAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-24T14:22:27.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\24_02_2025\\24_02_2025\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "24_02_2025\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\24_02_2025\\24_02_2025\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "24_02_2025\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T14:05:18.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\24_02_2025\\24_02_2025\\appsettings.json",
+              "RelativeDocumentMoniker": "24_02_2025\\appsettings.json",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\24_02_2025\\24_02_2025\\appsettings.json",
+              "RelativeToolTip": "24_02_2025\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-24T14:03:58.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\24_02_2025\\24_02_2025\\Program.cs",
+              "RelativeDocumentMoniker": "24_02_2025\\Program.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\24_02_2025\\24_02_2025\\Program.cs",
+              "RelativeToolTip": "24_02_2025\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T14:03:33.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MyDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\24_02_2025\\24_02_2025\\Models\\MyDbContext.cs",
+              "RelativeDocumentMoniker": "24_02_2025\\Models\\MyDbContext.cs",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\24_02_2025\\24_02_2025\\Models\\MyDbContext.cs",
+              "RelativeToolTip": "24_02_2025\\Models\\MyDbContext.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBUAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T14:02:29.351Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

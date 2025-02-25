@@ -1,0 +1,10 @@
+﻿@model IEnumerable<_24_02_2025.Models.User>
+
+@{
+    ViewData["Title"] = "Index";
+}
+@if(@Context.Session.GetString != null)
+{
+<h3>Hello </h3>
+@Context.Session.GetString("Name")
+}

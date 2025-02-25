@@ -1,0 +1,31 @@
+﻿@model _23_02_2025.Models.Department
+
+<h4>Display Employee Details</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <div class="form-group">
+            <label class="control-label">First Name</label>
+            <div class="form-control">@Model.FirstName</div>
+        </div>
+
+        <div class="form-group">
+            <label class="control-label">Last Name</label>
+            <div class="form-control">@Model.LastName</div>
+        </div>
+
+        <div class="form-group">
+            <label class="control-label">Email</label>
+            <div class="form-control">@Model.Email</div>
+        </div>
+
+        <div class="form-group">
+            <label class="control-label">Phone Number</label>
+            <div class="form-control">@Model.PhoneNumber</div>
+        </div>
+    </div>
+</div>
+
+<div>
+    <a asp-controller="Department" asp-action="Index">Back to List</a>
+</div>

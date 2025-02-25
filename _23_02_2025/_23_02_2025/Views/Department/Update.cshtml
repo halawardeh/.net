@@ -1,0 +1,20 @@
+﻿@model _23_02_2025.Models.Department
+
+<form method="post" action="@Url.Action("Update", "Department", new { id = Model.Id })">
+    <label for="firstName">First Name:</label>
+    <input type="text" id="firstName" name="firstName" value="@Model.FirstName" />
+
+    <label for="lastName">Last Name:</label>
+    <input type="text" id="lastName" name="lastName" value="@Model.LastName" />
+
+    <label for="email">Email:</label>
+    <input type="email" id="email" name="email" value="@Model.Email" />
+
+    <label for="phoneNumber">Phone Number:</label>
+    <input type="text" id="phoneNumber" name="phoneNumber" value="@Model.PhoneNumber" />
+
+    <button type="submit">Update</button>
+</form>
+<div>
+    <a asp-controller="Department" asp-action="Index">Back to List</a>
+</div>

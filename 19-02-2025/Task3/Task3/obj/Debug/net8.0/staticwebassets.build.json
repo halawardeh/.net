@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "XVO+T85Jm3wWcbTzGcT+4plqhyB5LcosbWVpGj3UIjo=",
+  "Hash": "QXBqVK8VZSzEd2eKbb9zCprsD5j66/pnPNPqdIWm8HA=",
   "Source": "Task3",
   "BasePath": "_content/Task3",
   "Mode": "Default",
@@ -1488,7 +1488,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Feb 2025 08:24:46 GMT"
+          "Value": "Tue, 25 Feb 2025 19:57:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1525,7 +1525,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Feb 2025 08:24:46 GMT"
+          "Value": "Tue, 25 Feb 2025 19:57:23 GMT"
         },
         {
           "Name": "Cache-Control",
